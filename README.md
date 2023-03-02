@@ -1,2 +1,2 @@
 # EmpathNet
-Explored the use of deep learning techniques for non-intrusive monitoring of depression based on video and audio data. Experimented with different models and data augmentation techniques and achieved a maximum recall of 84% and accuracy of 81%.
+Explored the use of deep learning techniques for non-intrusive monitoring of depression based on video and audio data. Experimented with different models and data augmentation techniques and achieved a maximum recall of 84% and accuracy of 81%. The best performance is achieved by a VGG16 model that used both audio and text encoded using Google's BERT, resulting in a mean absolute error of 6.54.
