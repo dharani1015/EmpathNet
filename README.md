@@ -9,7 +9,7 @@ To download the entire dataset  :
 --->   wget -r --no-parent *link given by https://dcapswoz.ict.usc.edu/*
 
 
-We have taken permission from University Of Souther California to get access to Extended DAIC Database. As we are not sure if we can freely share the link to this, we are not pasting the link here. Please reach out to us if you want to reuse the dataset. We will send a mail to the organization meanwhile if we can share the dataset.
+We have taken permission from University Of Souther California to get access to Extended DAIC Database. As we are not sure if we can freely share the link to this, not pasting the link here. Please reach out to us if you want to reuse the dataset. We will send a mail to the organization meanwhile if we can share the dataset.
 
 
 
